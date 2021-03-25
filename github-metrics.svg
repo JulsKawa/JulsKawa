@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1117" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1168" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -1128,7 +1128,7 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-          3.36 MB used
+          3.42 MB used
         </div>
         
       </section>
@@ -1222,21 +1222,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="252.59420062472367" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="252.44297464114152" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="252.59420062472367" y="0" width="89.96083353539387" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="252.44297464114152" y="0" width="89.90697475517797" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="342.55503416011754" y="0" width="58.44691988418366" height="8" fill="#dea584"/>
+          <rect mask="url(#languages-bar)" x="342.34994939631946" y="0" width="58.41192821404644" height="8" fill="#dea584"/>
         
-          <rect mask="url(#languages-bar)" x="401.0019540443012" y="0" width="44.470625151545406" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="400.7618776103659" y="0" width="44.44400096930993" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="445.4725791958466" y="0" width="12.610289398239933" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="445.2058785796758" y="0" width="12.602739726027396" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="458.0828685940865" y="0" width="0.7715765001212364" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="457.8086183057032" y="0" width="0.7711145638818012" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="458.85444509420773" y="0" width="0.7177760979018984" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="458.57973286958503" y="0" width="0.7173463715022879" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="459.5722211921096" y="0" width="0.4277788078903453" height="8" fill="#427819"/>
+          <rect mask="url(#languages-bar)" x="459.2970792410873" y="0" width="0.7029207589126624" height="8" fill="#701516"/>
         
       </svg>
       
@@ -1278,8 +1278,8 @@
             </div>
           
             <div class="field center no-wrap language">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-              Makefile
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+              Ruby
             </div>
           
         </div>
@@ -3226,97 +3226,19 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">JulsKawa/JulsKawa</div>
+                    Pushed 1 commit in <div class="repo">JulsKawa/BananoCounter</div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <div class="code">main</div></div>
+                      <div>on branch <div class="code">master</div></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#0c17281</div>
-                        <div class="message">Delete blank.yml</div>
+                        <div class="sha">#ed83931</div>
+                        <div class="message">Update banano_blocks_tweet.rb</div>
                       </div>
                     
                   </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
-                    
-                    Created new
-                    branch <div class="code">main</div> in <div class="repo">JulsKawa/BananoCounter</div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/></svg>
-                    
-                    Created new
-                    repository <div class="code"></div> in <div class="repo">JulsKawa/BananoCounter</div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-                    Opened <div class="issue">#206 Build </div>
-                  </div>
-                  <div class="details">
-                    <div>opened  in <div class="repo">cagnulein/qdomyos-zwift</div></div>
-                  </div>
-                
-                
-                
-                
                 
                 
                 
@@ -3338,7 +3260,7 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">BananoFrance/snapshot_banano</div>
+                    Pushed 1 commit in <div class="repo">JulsKawa/BananoCounter</div>
                   </div>
                   <div class="details">
                     
@@ -3346,11 +3268,105 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#ef13e13</div>
-                        <div class="message">Update README.md</div>
+                        <div class="sha">#ec806cc</div>
+                        <div class="message">Update banano_blocks_tweet.rb</div>
                       </div>
                     
                   </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">JulsKawa/BananoCounter</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#72dbc54</div>
+                        <div class="message">Update banano_blocks_tweet.rb</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">JulsKawa/BananoCounter</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#40562b3</div>
+                        <div class="message">Create ruby.yml</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    Created new
+                    branch <div class="code">master</div> in <div class="repo">JulsKawa/BananoCounter</div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
                 
                 
                 
@@ -3387,7 +3403,7 @@
           
             <span>These metrics include private contributions, timezone Europe/Paris</span>
           
-          <span>Last updated Thu, 25 Mar 2021 16:34:42 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Thu, 25 Mar 2021 17:08:38 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
