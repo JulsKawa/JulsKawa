@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2261" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1140" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2407,16 +2407,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#1 Create a README</span>
+                                        Released
+                                        <span class="bold">v1.4.1</span>
+                                        of
+                                        <span class="repo">BananoFrance/aloko</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">pandanite-crypto/rhizome</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2427,39 +2425,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">JulsKawa/rhizome</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">BananoFrance/aloko</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e278935</div>
-                                        <div class="message">📦 feat(PeerManagerImpl.java): add PeerManagerImpl class to handle peer management and synchronization
-🔒 fix(PeerManagerImpl.java): fix missing lock initialization in PeerManagerImpl class
-The PeerManagerImpl class is added to handle peer management and synchronization in the network service. It provides methods for managing peers, syncing headers with peers, and computing the address of the current node. The missing lock initialization is fixed to ensure thread safety when accessing shared resources in the class.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd70ff0</div>
-                                        <div class="message">🔧 fix(HeaderChain.java): update method calls to use PeerInterface instead of ApiNodeInterface
-🔧 fix(PeerManager.java): remove unused imports and format code
-The changes in HeaderChain.java update method calls from ApiNodeInterface to PeerInterface to reflect the correct interface being used. This ensures that the correct methods are called and the code functions as intended. In PeerManager.java, unused imports are removed and the code is formatted for better readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d6680b</div>
-                                        <div class="message">🔥 refactor(peer): remove unused classes and interfaces related to peer management
-The following classes and interfaces were removed:
-- `AbstractPeer`: This class was no longer used and had no implementation. It was safe to remove it.
-- `Peer`: This interface was no longer used and had no implementation. It was safe to remove it.
-- `PeerImpl`: This class was no longer used and had no implementation. It was safe to remove it.
-- `AbstractPeerManager`: This class was no longer used and had no implementation. It was safe to remove it.
-
-These classes and interfaces were removed because they were no longer used in the codebase and were unnecessary. Removing them improves code cleanliness and reduces potential confusion for developers working on the project.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7349a01</div>
-                                        <div class="message">📦 feat(PeerInterface.java): add PeerInterface class to handle communication with peers
-The PeerInterface class is added to handle communication with peers in the Rhizome blockchain network. It provides methods for retrieving information about the current block count, total work, and name from a peer. It also allows for retrieving block data, pinging a peer, submitting a block, getting the mining problem, sending a transaction, and verifying a transaction. Additionally, it provides methods for reading raw headers, blocks, and transactions from a peer. The class is added to improve the functionality of the Rhizome blockchain network by enabling communication with other peers.</div>
+                                        <div class="sha">#e454978</div>
+                                        <div class="message">Update go.mod</div>
                                     </div>
                                 </div>
                             </section>
@@ -2468,144 +2442,14 @@ The PeerInterface class is added to handle communication with peers in the Rhizo
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 27 commits in
-                                        <span class="repo">JulsKawa/rhizome</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c45c1e</div>
-                                        <div class="message">📦 feat(BlockchainNode.java): add BlockchainNode class to handle interactions with a blockchain node
-The BlockchainNode class is added to handle various interactions with a blockchain node. It provides methods to retrieve information about the current block count, total work, and name of the blockchain. It also allows fetching block data by block ID, pinging a peer, submitting a block, getting the mining problem, sending a transaction, and verifying a transaction. Additionally, it provides methods to read raw block headers, raw blocks, and raw transactions from a blockchain node. These methods are useful for synchronizing with the blockchain.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb94468</div>
-                                        <div class="message">🐛 fix(BinarySerializable.java): fix the position parameter in the fromBuffer method to correctly decode the buffer
-The position parameter in the fromBuffer method was not being used correctly, causing the buffer to be decoded from the wrong position. This fix updates the fromBuffer method to correctly use the position parameter when decoding the buffer.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#426d4ff</div>
-                                        <div class="message">🐛 fix(BlockDto.java): fix typo in variable name numTranactions to numTransactions for consistency
-🐛 fix(LevelDBBlockPersistence.java): fix typo in method calls from getNumTranactions to getNumTransactions for consistency
-
-The variable name `numTranactions` in `BlockDto.java` was a typo and has been corrected to `numTransactions` for consistency. The method calls in `LevelDBBlockPersistence.java` have also been updated to use the correct variable name `getNumTransactions` for consistency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e755f1d</div>
-                                        <div class="message">🐛 fix(Block.java): remove NoSuchAlgorithmException from getHash() method signature
-🐛 fix(BlockImpl.java): remove NoSuchAlgorithmException from getHash() method signature
-🐛 fix(Crypto.java): add missing import for BigInteger
-🐛 fix(Crypto.java): fix incrementByteArrayByOne() method to correctly increment byte array
-✨ feat(Block.java): add verifyNonce(), getHash(), getLastBlockHash(), and getDifficulty() methods
-The NoSuchAlgorithmException is removed from the getHash() method signature in both Block.java and BlockImpl.java as it is not needed. The Crypto.java file is fixed by adding the missing import for BigInteger and correcting the incrementByteArrayByOne() method to correctly increment the byte array. Additionally, the Block.java file is enhanced by adding the verifyNonce(), getHash(), getLastBlockHash(), and getDifficulty() methods to improve the functionality of the Block interface.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdf55e0</div>
-                                        <div class="message">📦 feat(SerializerDefSimpleHashType.java): add SerializerDefSimpleHashType class to provide serialization support for SimpleHashType objects
-The SerializerDefSimpleHashType class is added to provide serialization support for objects of type SimpleHashType. It extends the SimpleSerializerDef class and implements the BinarySerializer interface. The class overrides the createSerializer method to create a custom serializer for the SimpleHashType objects. The encode method writes the object's byte representation to the BinaryOutput, while the decode method reads the byte representation from the BinaryInput and constructs a SimpleHashType object from it.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1db6cf5</div>
-                                        <div class="message">🐛 fix(SimpleHashType.java): add missing toBytes() method
-🐛 fix(RIPEMD160Hash.java): implement toBytes() method
-🐛 fix(PublicAddress.java): replace getEncoded() with toBytes() method
-🐛 fix(TransactionImpl.java): replace compareSigningKeys() with Arrays.equals() for signingKey comparison
-🐛 fix(UserImpl.java): replace getPublicKey().key().get().getEncoded() with getPublicKey().toBytes()
-🐛 fix(AbstractPeerManager.java): remove unused imports
-🐛 fix(CryptoTests.java): replace get().getEncoded() with toBytes() method
-The changes were made to fix compilation errors and improve code consistency. The missing toBytes() method was added to the SimpleHashType interface and implemented in the RIPEMD160Hash class. The getEncoded() method calls were replaced with the toBytes() method calls in the PublicAddress and UserImpl classes. The compareSigningKeys() method in the TransactionImpl class was replaced with Arrays.equals() for signingKey comparison. Unused imports were removed from the AbstractPeerManager class. The get().getEncoded() calls were replaced with the toBytes() method calls in the CryptoTests class.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#483b21f</div>
-                                        <div class="message">🐛 fix(PublicKey.java): add check for zero-filled bytes in the `of` method to prevent creating a PublicKey with all zeros
-🐛 fix(TransactionImpl.java): fix equals method to correctly compare signing keys
-The `of` method in the `PublicKey` class now checks if the provided bytes are zero-filled before creating a new `PublicKey` instance. This prevents creating a `PublicKey` with all zeros, which is not a valid public key.
-
-The `equals` method in the `TransactionImpl` class now correctly compares the signing keys by checking if they are present and then comparing their encoded values. This ensures that the `equals` method works correctly when comparing `TransactionImpl` instances.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c91e6cd</div>
-                                        <div class="message">🔧 chore(BlockchainService.java): remove unused import statement
-🔧 chore(CryptoTests.java): remove unused import statement
-The unused import statements in the BlockchainService.java and CryptoTests.java files have been removed to improve code readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c643340</div>
-                                        <div class="message">🐛 fix(CryptoTests.java): use factory method to create PublicKey instances for improved readability and consistency
-🐛 fix(LedgerTest.java): use factory method to create PublicKey instances for improved readability and consistency
-
-In CryptoTests.java, the code has been updated to use the factory method `PublicKey.of()` instead of directly instantiating `PublicKey` with `Ed25519PublicKeyParameters`. This change improves readability and consistency in the code.
-
-In LedgerTest.java, the code has been updated to use the factory method `PublicKey.of()` instead of directly instantiating `PublicKey` with `Ed25519PublicKeyParameters`. This change improves readability and consistency in the code.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68e7e48</div>
-                                        <div class="message">🐛 fix(User.java): update method call to PublicKey.of() to fix compilation error
-🐛 fix(UserImpl.java): update method call to getPublicKey().key().get() to fix comparison error
-The method call to `PublicKey.of()` is updated in `User.java` to fix a compilation error. The method call to `getPublicKey().key().get()` is updated in `UserImpl.java` to fix a comparison error.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca69069</div>
-                                        <div class="message">🐛 fix(Transaction.java): update 'from' method in TransactionImpl builder to handle transaction fee
-🐛 fix(TransactionImpl.java): set default value for signingKey to PublicKey.empty() to avoid null pointer exception
-
-The 'from' method in the TransactionImpl builder has been updated to handle the case where the transactionDto has a transaction fee. If the transactionDto has a transaction fee, the 'from' method will set the 'from' field to PublicAddress.empty(), otherwise it will set it to PublicAddress.of(transactionDto.signingKey).
-
-In the TransactionImpl class, the signingKey field has been set a default value of PublicKey.empty() to avoid a null pointer exception when comparing signing keys.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfe33f7</div>
-                                        <div class="message">📦 chore(SerializerDefPublicKey.java): add SerializerDefPublicKey class
-📦 chore(SerializerDefTransactionSignature.java): add SerializerDefTransactionSignature class
-The SerializerDefPublicKey and SerializerDefTransactionSignature classes have been added to the project. These classes implement the BinarySerializer interface from the ActiveJ library and provide serialization and deserialization logic for the PublicKey and TransactionSignature classes respectively. This allows instances of PublicKey and TransactionSignature to be encoded into binary format and decoded back into objects.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#274a182</div>
-                                        <div class="message">🔧 chore(BinarySerializable.java): add serializers for PublicKey and TransactionSignature
-🐛 fix(SerializerDefPublicAddress.java): update encode method to use PublicAddress's toBytes() method
-🐛 fix(SerializerDefSHA256Hash.java): update encode method to use SHA256Hash's toBytes() method
-The changes in BinarySerializable.java add serializers for PublicKey and TransactionSignature classes, allowing them to be serialized and deserialized. In SerializerDefPublicAddress.java, the encode method is updated to use the toBytes() method of PublicAddress instead of address().getArray(). Similarly, in SerializerDefSHA256Hash.java, the encode method is updated to use the toBytes() method of SHA256Hash instead of hash().getArray(). These changes improve the serialization process and ensure consistency across the codebase.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae07fd8</div>
-                                        <div class="message">🐛 fix(PublicAddress.java): handle case when public key is not present to avoid NullPointerException
-The code now checks if the public key is present before attempting to get the encoded bytes. If the public key is not present, it returns an empty PublicAddress object. This change prevents a NullPointerException from occurring when the public key is null.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8641a06</div>
-                                        <div class="message">🔒 refactor(PublicKey.java): change PublicKey class to use Optional&lt;Ed25519PublicKeyParameters&gt; instead of Ed25519PublicKeyParameters directly
-🔒 refactor(PublicKey.java): modify PublicKey class to handle empty keys and provide static factory methods for creating instances
-The PublicKey class has been modified to use `Optional&lt;Ed25519PublicKeyParameters&gt;` instead of `Ed25519PublicKeyParameters` directly. This change allows for the representation of empty keys by using `Optional.empty()`. Additionally, static factory methods `empty()` and `of(AsymmetricKeyParameter keyParameter)` have been added to create instances of PublicKey. These changes improve the flexibility and readability of the PublicKey class.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11dcf56</div>
-                                        <div class="message">🔧 chore(PrivateKey.java): add support for creating PrivateKey from AsymmetricKeyParameter
-🐛 fix(PrivateKey.java): handle null keyParameter in of(AsymmetricKeyParameter) method
-The `PrivateKey` class now has a new method `of(AsymmetricKeyParameter)` which allows creating a `PrivateKey` object from an `AsymmetricKeyParameter`. This provides more flexibility when working with different types of key parameters. Additionally, a null check has been added to the `of(AsymmetricKeyParameter)` method to handle cases where the key parameter is null.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74f0383</div>
-                                        <div class="message">🔒 chore(Crypto.java): remove unused imports and commented out code
-🔒 chore(Utils.java): remove unused imports and commented out code
-The changes were made to remove unused imports and commented out code, improving code readability and reducing clutter. The commented out code was likely left behind during development or debugging and is no longer needed. Removing these unnecessary lines improves the maintainability of the codebase.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a94e051</div>
-                                        <div class="message">Refactoring to use more robust types</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f5405e</div>
-                                        <div class="message">🔥 refactor(Constants.java): remove unused import and constant NULL_ADDRESS
-The import statement for `rhizome.core.common.Utils.PublicWalletAddress` is no longer used, so it has been removed. The constant `NULL_ADDRESS` is also no longer used and has been removed from the codebase. This cleanup improves code readability and reduces unnecessary clutter.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd5d2fe</div>
-                                        <div class="message">🔥 refactor(BlockImpl.java): remove unused import statement for java.util.Arrays
-The import statement for java.util.Arrays is no longer used in the BlockImpl.java file. Removing this unused import statement improves code readability and reduces clutter.</div>
+                                        Deleted
+                      tag
+                                        <span class="code">v.1.4.1</span>
+                                        in
+                                        <span class="repo">BananoFrance/aloko</span>
                                     </div>
                                 </div>
                             </section>
@@ -2614,157 +2458,14 @@ The import statement for java.util.Arrays is no longer used in the BlockImpl.jav
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">JulsKawa/rhizome</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cc32368</div>
-                                        <div class="message">🚀 feat(LevelDBBlockPersistenceTests.java): add tests for LevelDBBlockPersistence class
-
-This commit adds tests for the LevelDBBlockPersistence class. The tests cover various functionalities of the class, including storing blocks, retrieving blocks, getting transactions for wallets, removing block wallet transactions, storing multiple blocks, setting block count and total work, and retrieving valid raw data. These tests ensure the correctness and reliability of the LevelDBBlockPersistence class.
-
-The tests verify that blocks can be stored and retrieved correctly, transactions can be retrieved for specific wallets, block wallet transactions can be removed, multiple blocks can be stored and retrieved, block count and total work can be set and retrieved accurately, and valid raw data can be retrieved and converted back to blocks. Additionally, the tests verify that big integers can be stored and retrieved correctly.
-
-These tests provide comprehensive coverage for the LevelDBBlockPersistence class, ensuring its functionality and reliability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06369b4</div>
-                                        <div class="message">🔧 refactor(Ledger.java): rename PublicWalletAddress to PublicAddress for improved clarity and consistency
-🔧 refactor(LedgerState.java): rename PublicWalletAddress to PublicAddress for improved clarity and consistency
-🔧 refactor(LedgerTest.java): rename PublicWalletAddress to PublicAddress for improved clarity and consistency
-
-The class `Ledger` and its related classes and tests have been updated to use the more descriptive and consistent name `PublicAddress` instead of `PublicWalletAddress`. This change improves the clarity and readability of the codebase by accurately reflecting the purpose of the class.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#986b298</div>
-                                        <div class="message">📦 feat(SerializerDefSHA256Hash.java): add SerializerDefSHA256Hash class to provide serialization support for SHA256Hash objects
-The SerializerDefSHA256Hash class is added to the rhizome.core.net package. This class implements the BinarySerializer interface from the ActiveJ library to provide serialization and deserialization support for SHA256Hash objects. The encode method writes the byte array representation of the hash to the BinaryOutput, while the decode method reads the byte array from the BinaryInput and constructs a new SHA256Hash object from it. This class is necessary to enable efficient serialization and deserialization of SHA256Hash objects in the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d5adbd</div>
-                                        <div class="message">📦 feat(SerializerDefPublicAddress.java): add SerializerDefPublicAddress class to handle serialization of PublicAddress objects
-The SerializerDefPublicAddress class is added to the project. This class implements the BinarySerializer interface from the ActiveJ library and provides serialization and deserialization logic for PublicAddress objects. The encode method writes the byte array representation of the address to the BinaryOutput, while the decode method reads the byte array from the BinaryInput and constructs a PublicAddress object from it. This class is necessary to enable proper serialization and deserialization of PublicAddress objects in the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29161c4</div>
-                                        <div class="message">🔧 chore(BinarySerializable.java): add custom serializers for SHA256Hash and PublicAddress classes
-🔧 chore(BinarySerializable.java): update the getSerializer method to include custom serializers for the SHA256Hash and PublicAddress classes
-The BinarySerializable interface now includes custom serializers for the SHA256Hash and PublicAddress classes. This allows for proper serialization and deserialization of objects of these types when using the getSerializer method.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b64f303</div>
-                                        <div class="message">Delete unused copied class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f68c120</div>
-                                        <div class="message">🔧 chore(SHA256Hash.java): add utility methods for creating SHA256Hash from byte array and hex string, and for converting hash to hex string
-The utility methods `of(byte[] bytes)` and `of(String hexString)` are added to create a SHA256Hash object from a byte array and a hex string respectively. Additionally, a `toHexString()` method is added to convert the hash to a hex string representation. These utility methods improve the usability and flexibility of the SHA256Hash class.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c0b38a</div>
-                                        <div class="message">🔥 refactor(Constants.java): remove unused imports and constants for cleaner code
-The unused imports `rhizome.core.common.Utils.SHA256Hash` and the constants `NULL_SHA256_HASH` and `NULL_KEY` are removed from the `Constants` class. This improves code readability and eliminates unnecessary clutter.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21f09dd</div>
-                                        <div class="message">🐛 fix(BlockImpl.java): fix import statement for SHA256Hash class
-🔒 chore(BlockImpl.java): replace usage of NULL_SHA256_HASH with SHA256Hash.empty() for merkleRoot, lastBlockHash, and nonce fields
-🔒 chore(BlockImpl.java): update hash calculation to use hash() method instead of accessing hash field directly
-The import statement for the SHA256Hash class has been fixed to import from the correct package. The usage of the NULL_SHA256_HASH constant has been replaced with the SHA256Hash.empty() method to improve code readability and consistency. The hash calculation has been updated to use the hash() method instead of accessing the hash field directly for better encapsulation and abstraction.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b92d05</div>
-                                        <div class="message">🔧 chore(BlockDto.java): refactor BlockDto serialization to use SHA256Hash objects instead of byte arrays
-💡 refactor(BlockDto.java): improve code readability and maintainability by using SHA256Hash objects for serialization instead of byte arrays
-The BlockDto class has been refactored to use SHA256Hash objects for serialization instead of byte arrays. This change improves code readability and maintainability by using a more meaningful and type-safe representation of the data.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f2b780</div>
-                                        <div class="message">🔧 fix(Block.java): update import statements for SHA256Hash class
-🔧 fix(Block.java): remove unused import statements for SHA256toString and stringToSHA256
-🔧 fix(Block.java): update method calls to use toHexString() instead of hash property
-The import statements for the SHA256Hash class have been updated to reflect the correct package. The unused import statements for SHA256toString and stringToSHA256 have been removed. The method calls to get the hash, nonce, merkleRoot, lastBlockHash properties have been updated to use the toHexString() method instead of accessing the hash property directly. This ensures consistency and improves readability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a6543b</div>
-                                        <div class="message">✨ feat(MemPool.java): add new MemPool class to handle transactions in memory
-The MemPool class is added to the blockchain services package. This class will be responsible for handling transactions in memory before they are added to the blockchain.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fde50e8</div>
-                                        <div class="message">📦 chore(network): add AbstractPeerManager, PeerManager, and PeerManagerService classes
-
-The commit adds three new Java classes: AbstractPeerManager, PeerManager, and PeerManagerService.
-
-AbstractPeerManager is an abstract class that implements the PeerManager interface. It provides common properties and methods for managing peers in a network. The class includes properties for managing peers, such as currPeers, blockStore, lock, disabled, firewall, ip, port, name, address, version, minHostVersion, networkName, hostPingTimes, peerClockDeltas, checkpoints, bannedHashes, hostSources, hosts, blacklist, whitelist, syncThread, and headerStatsThread.
-
-PeerManager is an interface that defines the contract for managing peers in a network. It currently does not have any methods defined.
-
-PeerManagerService is a class that implements the EventloopService interface. It provides the functionality to start and stop the PeerManager service. The start and stop methods are currently not implemented and throw UnsupportedOperationException.
-
-These classes are added to support the networking functionality in the application and provide a foundation for managing peers in a distributed network.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18701d1</div>
-                                        <div class="message">📦 chore(blockchain): add AbstractBlockchain, Blockchain, and BlockchainService classes
-
-The commit adds three new classes: AbstractBlockchain, Blockchain, and BlockchainService.
-
-AbstractBlockchain is an abstract class that provides a base implementation for a blockchain. It includes various properties and methods that are common to all blockchains, such as syncing, shutdown, peer management, mempool, block persistence, ledger, transaction store, difficulty, and more.
-
-Blockchain is an interface that defines the contract for a blockchain. It includes a default method called sync() that throws an UnsupportedOperationException. This method can be implemented by concrete blockchain classes to perform synchronization operations.
-
-BlockchainService is a concrete implementation of AbstractBlockchain and also implements the EventloopService interface. It provides additional functionality for starting and stopping the blockchain service using the Eventloop framework.
-
-The reason for these changes is to lay the foundation for building blockchain-related functionality in the application. The AbstractBlockchain class provides a reusable base implementation, while the Blockchain interface defines the contract for a blockchain. The BlockchainService class extends AbstractBlockchain and adds EventloopService functionality, allowing the blockchain service to be started and stopped using the Eventloop framework.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c35ca8e</div>
-                                        <div class="message">📦 chore(engine): add Action, Handler, PendingState, StartAction, Task, TaskEvent, and TaskState classes
-🔧 refactor(engine): add necessary classes and interfaces for implementing a task engine
-
-The commit adds several new classes and interfaces related to implementing a task engine. The added classes are:
-- `Action`: A functional interface representing an action that can be executed on a task.
-- `Handler`: A functional interface representing a handler that can handle a task and perform an action.
-- `PendingState`: A class representing the pending state of a task.
-- `StartAction`: A class representing the start action of a task.
-- `Task`: A class representing a task in the task engine.
-- `TaskEvent`: A class representing an event that can occur during the execution of a task.
-- `TaskState`: An interface representing the state of a task.
-
-These classes and interfaces are necessary for implementing the logic of a task engine, where tasks can transition between different states and actions can be executed on tasks.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e40e171</div>
-                                        <div class="message">🔧 chore(TransactionDto.java): add fixed size serialization for 'to' and 'from' fields to improve efficiency
-🚀 feat(TransactionDto.java): add import statement for PublicAddress class to resolve compilation error
-The 'to' and 'from' fields in the TransactionDto class are now serialized with a fixed size using the @SerializeFixedSize annotation. This improves efficiency by ensuring that the serialized byte arrays have a consistent size. Additionally, an import statement for the PublicAddress class has been added to resolve a compilation error.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4893af</div>
-                                        <div class="message">Copy classes from ActiveJ in order to modify its to comply with pdn serialization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8108fda</div>
-                                        <div class="message">✨ feat(BinarySerializer.java): add BinarySerializer interface to provide serialization and deserialization functionality for Pandanite format
-The BinarySerializer interface is added to the project. This interface represents a serializer that can encode and decode values of type T to byte arrays in the Pandanite format. It provides default implementations for encoding and decoding using BinaryOutput and BinaryInput classes respectively. The encode method encodes the item to the provided BinaryOutput, while the decode method decodes the item from the provided BinaryInput. This interface is intended to be implemented by classes that provide serialization and deserialization functionality for Pandanite format.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b9436f</div>
-                                        <div class="message">🔥 refactor(Utils.java): remove unused imports and variables for cleaner code
-The unused imports and variables have been removed from the Utils.java file to improve code readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#016faf3</div>
-                                        <div class="message">🔧 chore(BlockDto.java): optimize serialization by using fixed size for byte arrays
-💡 refactor(BlockDto.java): improve performance by reducing buffer size
-The BlockDto class has been modified to optimize serialization by using the @SerializeFixedSize annotation for the byte arrays lastBlockHash, merkleRoot, and nonce. This ensures that the serialized byte arrays have a fixed size, which improves efficiency and reduces the size of the serialized data. Additionally, the BUFFER_SIZE constant has been reduced from 256 to 116, resulting in a smaller buffer size and improved performance. These changes were made to enhance the overall performance and efficiency of the BlockDto class.</div>
+                                        Created new
+                      tag
+                                        <span class="code">v1.5</span>
+                                        in
+                                        <span class="repo">BananoFrance/aloko</span>
                                     </div>
                                 </div>
                             </section>
@@ -2773,157 +2474,13 @@ The BlockDto class has been modified to optimize serialization by using the @Ser
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">JulsKawa/rhizome</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cc32368</div>
-                                        <div class="message">🚀 feat(LevelDBBlockPersistenceTests.java): add tests for LevelDBBlockPersistence class
-
-This commit adds tests for the LevelDBBlockPersistence class. The tests cover various functionalities of the class, including storing blocks, retrieving blocks, getting transactions for wallets, removing block wallet transactions, storing multiple blocks, setting block count and total work, and retrieving valid raw data. These tests ensure the correctness and reliability of the LevelDBBlockPersistence class.
-
-The tests verify that blocks can be stored and retrieved correctly, transactions can be retrieved for specific wallets, block wallet transactions can be removed, multiple blocks can be stored and retrieved, block count and total work can be set and retrieved accurately, and valid raw data can be retrieved and converted back to blocks. Additionally, the tests verify that big integers can be stored and retrieved correctly.
-
-These tests provide comprehensive coverage for the LevelDBBlockPersistence class, ensuring its functionality and reliability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06369b4</div>
-                                        <div class="message">🔧 refactor(Ledger.java): rename PublicWalletAddress to PublicAddress for improved clarity and consistency
-🔧 refactor(LedgerState.java): rename PublicWalletAddress to PublicAddress for improved clarity and consistency
-🔧 refactor(LedgerTest.java): rename PublicWalletAddress to PublicAddress for improved clarity and consistency
-
-The class `Ledger` and its related classes and tests have been updated to use the more descriptive and consistent name `PublicAddress` instead of `PublicWalletAddress`. This change improves the clarity and readability of the codebase by accurately reflecting the purpose of the class.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#986b298</div>
-                                        <div class="message">📦 feat(SerializerDefSHA256Hash.java): add SerializerDefSHA256Hash class to provide serialization support for SHA256Hash objects
-The SerializerDefSHA256Hash class is added to the rhizome.core.net package. This class implements the BinarySerializer interface from the ActiveJ library to provide serialization and deserialization support for SHA256Hash objects. The encode method writes the byte array representation of the hash to the BinaryOutput, while the decode method reads the byte array from the BinaryInput and constructs a new SHA256Hash object from it. This class is necessary to enable efficient serialization and deserialization of SHA256Hash objects in the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d5adbd</div>
-                                        <div class="message">📦 feat(SerializerDefPublicAddress.java): add SerializerDefPublicAddress class to handle serialization of PublicAddress objects
-The SerializerDefPublicAddress class is added to the project. This class implements the BinarySerializer interface from the ActiveJ library and provides serialization and deserialization logic for PublicAddress objects. The encode method writes the byte array representation of the address to the BinaryOutput, while the decode method reads the byte array from the BinaryInput and constructs a PublicAddress object from it. This class is necessary to enable proper serialization and deserialization of PublicAddress objects in the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29161c4</div>
-                                        <div class="message">🔧 chore(BinarySerializable.java): add custom serializers for SHA256Hash and PublicAddress classes
-🔧 chore(BinarySerializable.java): update the getSerializer method to include custom serializers for the SHA256Hash and PublicAddress classes
-The BinarySerializable interface now includes custom serializers for the SHA256Hash and PublicAddress classes. This allows for proper serialization and deserialization of objects of these types when using the getSerializer method.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b64f303</div>
-                                        <div class="message">Delete unused copied class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f68c120</div>
-                                        <div class="message">🔧 chore(SHA256Hash.java): add utility methods for creating SHA256Hash from byte array and hex string, and for converting hash to hex string
-The utility methods `of(byte[] bytes)` and `of(String hexString)` are added to create a SHA256Hash object from a byte array and a hex string respectively. Additionally, a `toHexString()` method is added to convert the hash to a hex string representation. These utility methods improve the usability and flexibility of the SHA256Hash class.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c0b38a</div>
-                                        <div class="message">🔥 refactor(Constants.java): remove unused imports and constants for cleaner code
-The unused imports `rhizome.core.common.Utils.SHA256Hash` and the constants `NULL_SHA256_HASH` and `NULL_KEY` are removed from the `Constants` class. This improves code readability and eliminates unnecessary clutter.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21f09dd</div>
-                                        <div class="message">🐛 fix(BlockImpl.java): fix import statement for SHA256Hash class
-🔒 chore(BlockImpl.java): replace usage of NULL_SHA256_HASH with SHA256Hash.empty() for merkleRoot, lastBlockHash, and nonce fields
-🔒 chore(BlockImpl.java): update hash calculation to use hash() method instead of accessing hash field directly
-The import statement for the SHA256Hash class has been fixed to import from the correct package. The usage of the NULL_SHA256_HASH constant has been replaced with the SHA256Hash.empty() method to improve code readability and consistency. The hash calculation has been updated to use the hash() method instead of accessing the hash field directly for better encapsulation and abstraction.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b92d05</div>
-                                        <div class="message">🔧 chore(BlockDto.java): refactor BlockDto serialization to use SHA256Hash objects instead of byte arrays
-💡 refactor(BlockDto.java): improve code readability and maintainability by using SHA256Hash objects for serialization instead of byte arrays
-The BlockDto class has been refactored to use SHA256Hash objects for serialization instead of byte arrays. This change improves code readability and maintainability by using a more meaningful and type-safe representation of the data.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f2b780</div>
-                                        <div class="message">🔧 fix(Block.java): update import statements for SHA256Hash class
-🔧 fix(Block.java): remove unused import statements for SHA256toString and stringToSHA256
-🔧 fix(Block.java): update method calls to use toHexString() instead of hash property
-The import statements for the SHA256Hash class have been updated to reflect the correct package. The unused import statements for SHA256toString and stringToSHA256 have been removed. The method calls to get the hash, nonce, merkleRoot, lastBlockHash properties have been updated to use the toHexString() method instead of accessing the hash property directly. This ensures consistency and improves readability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a6543b</div>
-                                        <div class="message">✨ feat(MemPool.java): add new MemPool class to handle transactions in memory
-The MemPool class is added to the blockchain services package. This class will be responsible for handling transactions in memory before they are added to the blockchain.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fde50e8</div>
-                                        <div class="message">📦 chore(network): add AbstractPeerManager, PeerManager, and PeerManagerService classes
-
-The commit adds three new Java classes: AbstractPeerManager, PeerManager, and PeerManagerService.
-
-AbstractPeerManager is an abstract class that implements the PeerManager interface. It provides common properties and methods for managing peers in a network. The class includes properties for managing peers, such as currPeers, blockStore, lock, disabled, firewall, ip, port, name, address, version, minHostVersion, networkName, hostPingTimes, peerClockDeltas, checkpoints, bannedHashes, hostSources, hosts, blacklist, whitelist, syncThread, and headerStatsThread.
-
-PeerManager is an interface that defines the contract for managing peers in a network. It currently does not have any methods defined.
-
-PeerManagerService is a class that implements the EventloopService interface. It provides the functionality to start and stop the PeerManager service. The start and stop methods are currently not implemented and throw UnsupportedOperationException.
-
-These classes are added to support the networking functionality in the application and provide a foundation for managing peers in a distributed network.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18701d1</div>
-                                        <div class="message">📦 chore(blockchain): add AbstractBlockchain, Blockchain, and BlockchainService classes
-
-The commit adds three new classes: AbstractBlockchain, Blockchain, and BlockchainService.
-
-AbstractBlockchain is an abstract class that provides a base implementation for a blockchain. It includes various properties and methods that are common to all blockchains, such as syncing, shutdown, peer management, mempool, block persistence, ledger, transaction store, difficulty, and more.
-
-Blockchain is an interface that defines the contract for a blockchain. It includes a default method called sync() that throws an UnsupportedOperationException. This method can be implemented by concrete blockchain classes to perform synchronization operations.
-
-BlockchainService is a concrete implementation of AbstractBlockchain and also implements the EventloopService interface. It provides additional functionality for starting and stopping the blockchain service using the Eventloop framework.
-
-The reason for these changes is to lay the foundation for building blockchain-related functionality in the application. The AbstractBlockchain class provides a reusable base implementation, while the Blockchain interface defines the contract for a blockchain. The BlockchainService class extends AbstractBlockchain and adds EventloopService functionality, allowing the blockchain service to be started and stopped using the Eventloop framework.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c35ca8e</div>
-                                        <div class="message">📦 chore(engine): add Action, Handler, PendingState, StartAction, Task, TaskEvent, and TaskState classes
-🔧 refactor(engine): add necessary classes and interfaces for implementing a task engine
-
-The commit adds several new classes and interfaces related to implementing a task engine. The added classes are:
-- `Action`: A functional interface representing an action that can be executed on a task.
-- `Handler`: A functional interface representing a handler that can handle a task and perform an action.
-- `PendingState`: A class representing the pending state of a task.
-- `StartAction`: A class representing the start action of a task.
-- `Task`: A class representing a task in the task engine.
-- `TaskEvent`: A class representing an event that can occur during the execution of a task.
-- `TaskState`: An interface representing the state of a task.
-
-These classes and interfaces are necessary for implementing the logic of a task engine, where tasks can transition between different states and actions can be executed on tasks.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e40e171</div>
-                                        <div class="message">🔧 chore(TransactionDto.java): add fixed size serialization for 'to' and 'from' fields to improve efficiency
-🚀 feat(TransactionDto.java): add import statement for PublicAddress class to resolve compilation error
-The 'to' and 'from' fields in the TransactionDto class are now serialized with a fixed size using the @SerializeFixedSize annotation. This improves efficiency by ensuring that the serialized byte arrays have a consistent size. Additionally, an import statement for the PublicAddress class has been added to resolve a compilation error.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4893af</div>
-                                        <div class="message">Copy classes from ActiveJ in order to modify its to comply with pdn serialization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8108fda</div>
-                                        <div class="message">✨ feat(BinarySerializer.java): add BinarySerializer interface to provide serialization and deserialization functionality for Pandanite format
-The BinarySerializer interface is added to the project. This interface represents a serializer that can encode and decode values of type T to byte arrays in the Pandanite format. It provides default implementations for encoding and decoding using BinaryOutput and BinaryInput classes respectively. The encode method encodes the item to the provided BinaryOutput, while the decode method decodes the item from the provided BinaryInput. This interface is intended to be implemented by classes that provide serialization and deserialization functionality for Pandanite format.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b9436f</div>
-                                        <div class="message">🔥 refactor(Utils.java): remove unused imports and variables for cleaner code
-The unused imports and variables have been removed from the Utils.java file to improve code readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#016faf3</div>
-                                        <div class="message">🔧 chore(BlockDto.java): optimize serialization by using fixed size for byte arrays
-💡 refactor(BlockDto.java): improve performance by reducing buffer size
-The BlockDto class has been modified to optimize serialization by using the @SerializeFixedSize annotation for the byte arrays lastBlockHash, merkleRoot, and nonce. This ensures that the serialized byte arrays have a fixed size, which improves efficiency and reduces the size of the serialized data. Additionally, the BUFFER_SIZE constant has been reduced from 256 to 116, resulting in a smaller buffer size and improved performance. These changes were made to enhance the overall performance and efficiency of the BlockDto class.</div>
+                                        Released
+                                        <span class="bold">YOLO</span>
+                                        of
+                                        <span class="repo">BananoFrance/aloko</span>
                                     </div>
                                 </div>
                             </section>
@@ -2933,7 +2490,7 @@ The BlockDto class has been modified to optimize serialization by using the @Ser
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2023, 19:13:58 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2023, 20:09:13 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
