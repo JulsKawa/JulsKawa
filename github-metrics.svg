@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1446" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1279" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            134 Commits
+                            135 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2406,6 +2406,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">warthog-network/docs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#53ea84e</div>
+                                        <div class="message">Update links.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">warthog-network/Warthog</span>
                                     </div>
                                 </div>
@@ -2479,74 +2499,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">JulsKawa/Warthog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5fd5224</div>
-                                        <div class="message">v0.4.2: fix bad iterator dereferencing bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbd41e9</div>
-                                        <div class="message">v0.4.1: increase max transactions mined into blocks + mempool sorted by fee</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa1742b</div>
-                                        <div class="message">Update wart-node entrypoint to use wart-node-linux</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34addf3</div>
-                                        <div class="message">Merge pull request #44 from warthog-network/new_ci
-
-NEW CI &amp; Small update of the documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#174c4c6</div>
-                                        <div class="message">v0.4.0 fix mempool bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d96a15</div>
-                                        <div class="message">update mempool on balance changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aaf6059</div>
-                                        <div class="message">remove compression experimental code from master branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdafe86</div>
-                                        <div class="message">add const</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7cf973</div>
-                                        <div class="message">rename variables + add const</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9e694e</div>
-                                        <div class="message">Update of CI and update of dockerbuild path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29f4628</div>
-                                        <div class="message">Update build instructions for Linux, Windows, and MacOS</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Feb 2024, 14:12:01 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Feb 2024, 15:13:20 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
